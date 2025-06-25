@@ -132,15 +132,7 @@ Also using:
 
 ---
 
-## 📸 Screenshots *(optional)*
 
-> Add screenshots here using:
-
-```md
-![Home Page](./src/assets/banner-img-1.png)
-```
-
----
 
 ## 📃 License
 
